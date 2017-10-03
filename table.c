@@ -11,5 +11,6 @@ void  main()
       k = i*n;
       printf("%d*%d=%d\n",n,i,k);
     }
+    printf("HUHAHA");
 
 }
